@@ -1,6 +1,0 @@
-Time resolution is 1 ps
-X[0] =      0 +      0j
-X[1] =      0 +     -2j
-X[2] =      0 +      0j
-X[3] =      0 +      2j
-$finish called at time : 10 ns : File "C:/Vivado_Work/fft_project/fft_project.srcs/sim_1/new/tb_dft_4pt.v" Line 29
